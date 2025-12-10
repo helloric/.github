@@ -23,7 +23,7 @@ Welcome! This repository is maintained by the HelloRic student team. Follow thes
 
 ## Local development setup
 - Document how to start the project locally (minimal instructions or link to README/devsetup).
-- Include commands for common tasks:
+- Include commands for common tasks e.g.:
   - Install deps: pip install -r requirements.txt
   - Run tests: pytest
 - Ideally, implement a devcontainer for VS Code.
